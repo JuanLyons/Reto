@@ -20,7 +20,7 @@ Enlace al conjunto de datos: [Conjunto de Datos de Histopatología Pulmonar](htt
 
 - Restricciones Computacionales: El proceso completo de entrenamiento y evaluación de tu modelo no debe superar 1 hora en una CPU estándar. Como referencia, un modelo ResNet18 entrenado y evaluado durante 10 épocas en este dataset toma aproximadamente 16 minutos.
 
-- Tiempo Estimado: Este reto está diseñado para ser completado en un máximo de **4 horas**. La eficiencia es clave, por lo que te animamos a utilizar funciones, clases o modelos pre-entrenados ya existentes.
+- Tiempo Estimado: Este reto está diseñado para ser completado en un máximo de **5 horas**. La eficiencia es clave, por lo que te animamos a utilizar funciones, clases o modelos pre-entrenados ya existentes.
 
 - Foco del Código: Concéntrate en implementar las funciones y clases estrictamente necesarias para cargar los datos, entrenar el modelo y evaluarlo. No es necesario ni preferible añadir funcionalidades adicionales que no contribuyan directamente a estos pasos.
 
